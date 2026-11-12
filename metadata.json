@@ -1,0 +1,6 @@
+{
+  "name": "Kaonashi Phygital Platform",
+  "description": "High-end Japanese & sushi-fusion phygital BTL activation engine, newsletter CRM, advanced data analytics, KDS operations, and multi-branch restaurant platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
